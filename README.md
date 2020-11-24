@@ -17,7 +17,7 @@ Con la creación de este sistema queremos ayudar a las pequeñas y medianas empr
 
 <hr>
 
-Instalación 
+# Instalación 
 <hr>
 
 En tu IDE favorito: crea una carpeta nueva, abre una terminal y ejecuta los siguientes comandos:
