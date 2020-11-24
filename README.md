@@ -23,7 +23,7 @@ Instalación
 En tu IDE favorito: crea una carpeta nueva, abre una terminal y ejecuta los siguientes comandos:
 
     git init
-    git clone 
+    git clone https://github.com/jorgesm15/licorera-yaroseg.git
 
     
   
